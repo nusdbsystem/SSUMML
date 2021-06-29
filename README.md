@@ -12,7 +12,7 @@ This repository is the Tensorflow implementation of our method for our newly int
 </p>
 
 
-Our code will be release soon.
+Our code will be released soon.
 
 
 ## Citation
