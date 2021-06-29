@@ -4,7 +4,7 @@ Semi-Supervised Unpaired Multi-Modal Learning for Label-Efficient Medical Image 
 by Lei Zhu, Kaiyuan Yang, Meihui Zhang, Ling Ling Chan, Teck Khim Ng and Beng Chin Ooi.
 
 ## Introduction
-This repository is the Tensorflow implementation of our method for our newly introduced Semi-Supervised Unpaired Multi-Modal Learning, accepted by MICCAI 2021.
+This repository contains the implementation of our method for our newly introduced Semi-Supervised Unpaired Multi-Modal Learning, accepted by MICCAI 2021.
 
 <br/>
 <p align="center">
